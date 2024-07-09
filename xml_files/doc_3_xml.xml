@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legalDocument>
+    <title>Settlement Agreement</title>
+    <description>Outline of Settlement Terms</description>
+    <author></author>
+    <creationDate></creationDate>
+    <content>
+        <section>
+            <sectionTitle>Nature of Dispute</sectionTitle>
+            <paragraph>This section describes the nature of the dispute.</paragraph>
+            <exhibit/>
+        </section>
+        <section>
+            <sectionTitle>Settlement Terms</sectionTitle>
+            <subSection>
+                <subSectionTitle>Financial Terms</subSectionTitle>
+                <paragraph>Details of the financial settlement terms.</paragraph>
+            </subSection>
+            <subSection>
+                <subSectionTitle>Non-Disclosure Agreement</subSectionTitle>
+                <paragraph>Conditions regarding the confidentiality of the settlement.</paragraph>
+                <attachment/>
+            </subSection>
+        </section>
+        <section>
+            <sectionTitle>Effectiveness</sectionTitle>
+            <paragraph>This section explains when the settlement becomes effective. Just because there is a date here 2022-05-05, doesn't mean that this is the creation date.</paragraph>
+            <signatureBlock />
+        </section>
+        <section/>
+    </content>
+</legalDocument>

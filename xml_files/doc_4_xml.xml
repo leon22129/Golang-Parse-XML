@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<legalDocument>
+    <header>
+        <title>Complex Legal Document</title>
+        <meta>
+            <author>John Smith</author>
+            <co-author>Emily Johnson</co-author>
+            <creationDate>2024-04-01</creationDate>
+        </meta>
+    </header>
+    <body>
+        <section id="1">
+            <title>Introduction</title>
+            <content>Overview of the document's purpose.</content>
+            <note>Some notes <highlight>with <b>mixed</b> formatting</highlight> inside.</note>
+        </section>
+        <section id="2">
+            <title>Background</title>
+            <content>
+                <paragraph>Background information with <inlineTag>various</inlineTag> inline elements.</paragraph>
+                <list>
+                    <item>Point 1</item>
+                    <item>Point 2 with <b>bold</b> text</item>
+                </list>
+            </content>
+        </section>
+        <content>
+            <mixedContent>
+                This is <b>mixed</b> content outside a <normalTag>regular tag structure</normalTag>.
+                <moreContent>
+                    More nested content with <a href="http://example.com">links</a> and other elements.
+                </moreContent>
+            </mixedContent>
+        </content>
+        <section id="3">
+            <title>Conclusion</title>
+            <content>
+                <conclusion>
+                    Final thoughts and <unusualTag>remarks</unusualTag>.
+                </conclusion>
+            </content>
+            <attachments>
+                <file>attachment1.pdf</file>
+                <file>attachment2.jpg</file>
+                <file>attachment3.docx</file>
+            </attachments>
+        </section>
+    </body>
+    <footer>
+        <comments>
+            <comment>First comment</comment>
+            <comment>Second comment with <b>bold</b> text</comment>
+        </comments>
+    </footer>
+</legalDocument>
